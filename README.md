@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Go Rate Limiter
 
 A simple, thread-safe HTTP rate limiter built with Go's standard library.
@@ -143,3 +144,6 @@ go-rate-limiter/
 ## License
 
 This project is available under the MIT License if a corresponding `LICENSE` file is added.
+=======
+# go-rate-limiter
+>>>>>>> 7fb92810351a7001b7bc2a696ef20bcdbf648bd5
